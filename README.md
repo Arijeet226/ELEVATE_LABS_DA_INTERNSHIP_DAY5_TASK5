@@ -1,6 +1,8 @@
 # ELEVATE_LABS_DA_INTERNSHIP_DAY5_TASK5
 Task 5: Exploratory Data Analysis (EDA),Objective: Extract insights using visual and statistical exploration.
 
+DATASET USED:-https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com
+
 Titanic Dataset Analysis - Project Steps:-
 
 Dataset Loading(In Google Collab) Loaded train dataset CSV into a pandas DataFrame.
