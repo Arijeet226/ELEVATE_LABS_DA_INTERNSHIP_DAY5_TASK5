@@ -67,6 +67,6 @@ The EDA shows a dominant gender effect: women survived at roughly three to four 
 
 ***
 
-*Thank you.*
+# *Thank you.*
 
 
