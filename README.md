@@ -22,7 +22,7 @@ Investigated missing values column-wise and calculated missing percentages
 Used heatmap visualization to understand null value distribution dataset
 Filled or handled missing values appropriately where needed
 
-5. Data Preprocessing and Data Standardization(In google colab)
+Data Preprocessing and Data Standardization(In google colab)
 Changing data type for the following cols
 Survived(category) PClass(category) Sex(category) Age(int) Embarked(category)
 sibsp is number of siblings / spouses aboard the Titanic parch is number of parents / children aboard the Titanic as the column name length will be too lenghty so we are using the abbreviated version of it.
